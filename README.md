@@ -53,7 +53,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/C4AnN/C4AnN/output/snake.svg" alt="Snake animation" />
-
-###
