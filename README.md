@@ -1,6 +1,6 @@
 <!-- ## Hi Guys 👋  -->
 
-![Fernando Candra Yulianto](img/Header2.png)
+![Fernando Candra Yulianto](img/Header.png)
 
 <!--
 **C4AnN/C4AnN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,9 +57,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C4AnN/C4AnN/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/C4AnN/C4AnN/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/C4AnN/C4AnN/output/snake.svg" alt="Snake animation" />
 
 ###
