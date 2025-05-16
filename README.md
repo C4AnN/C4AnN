@@ -1,4 +1,4 @@
-![Fernando Candra Yulianto](img/Header2.png)
+![Fernando Candra Yulianto](img/Header.png)
 
 ### Skills
 
