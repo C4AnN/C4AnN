@@ -1,4 +1,4 @@
-## Hi Guys 👋 m
+## Hi Guys 👋 
 
 <!--
 **C4AnN/C4AnN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
