@@ -56,3 +56,6 @@
 <img src="https://raw.githubusercontent.com/C4AnN/C4AnN/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/C4AnN/count.svg?"  />
+</div>
