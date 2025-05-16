@@ -1,6 +1,6 @@
 <!-- ## Hi Guys 👋  -->
 
-![Fernando Candra Yulianto](img/Header2.png)
+![Fernando Candra Yulianto](img/H)
 <!--
 **C4AnN/C4AnN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +31,34 @@ Here are some ideas to get you started:
 
 ### My Github Stats
 
-![Candra's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4AnN&theme=calm_pink)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C4AnN&&theme=calm_pink" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C4AnN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### Skills
+<div align="align">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+<img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
+</div>
+
+<h2 align="left">Let's play with me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C4AnN/C4AnN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C4AnN/C4AnN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/C4AnN/C4AnN/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/C4AnN/C4AnN/output/snake.svg" alt="Snake animation" />
+
+###
