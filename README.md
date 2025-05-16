@@ -1,6 +1,6 @@
 <!-- ## Hi Guys 👋  -->
 
-![Fernando Candra Yulianto](img/Header.png)
+![Fernando Candra Yulianto](img/Header2.png)
 
 <!--
 **C4AnN/C4AnN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
